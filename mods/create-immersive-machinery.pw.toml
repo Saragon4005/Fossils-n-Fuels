@@ -1,0 +1,7 @@
+name = "Create: Immersive Machinery"
+filename = "create_machinery-1.20.1-SNAPSHOT-fabric.jar"
+
+[download]
+url = "https://github.com/Creatures-5/CreateMachinery/releases/download/Fabric/create_machinery-1.20.1-SNAPSHOT-fabric.jar"
+hash-format = "sha256"
+hash = "471cfbf56dce50a228621eb80b0b1959ac2afd296d1783d2b811fa6a769b07c8"

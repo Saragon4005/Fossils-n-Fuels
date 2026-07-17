@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fossil.json"
+hash = "e269caf17321c41ef571e0baafb4b6fb8bbc060055506a8dc937b5371a2dc098"
+
+[[files]]
+file = "config/universal-graves/config.json"
+hash = "94fd726441f0181d4cfc9b4ea7e61124c0b1a1dbb7e3d6c70d4c46f99db1adc5"
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "6fc82b086c4735aae0fa280e1caff40b1bf819905c09c426a3b8ee28ea81dfd4"
 metafile = true
@@ -78,6 +86,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "5170e87b96b4a369397c7ca3534977afb540abb3ffaf5da783dafed317d1435e"
+metafile = true
+
+[[files]]
+file = "mods/create-immersive-machinery.pw.toml"
+hash = "7c5d4126a75db934d1e3a6458deae601e2e7c537e5b4799649b476d6a6f0aa9c"
 metafile = true
 
 [[files]]
