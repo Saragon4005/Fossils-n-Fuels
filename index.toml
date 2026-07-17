@@ -249,6 +249,11 @@ hash = "2e0a95f86b45c0d854c2ef1091c20a4f6adc0b2b9bf51da604a6e429427a1c54"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "0b6abf88963b044391b3f2d0d3643e1dad7b0f2feabd6f35b8a764b2b7ac97fb"
 metafile = true
@@ -331,11 +336,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "a0edb84f88de2f809607cb4937c655bb363664b67f6fc4eb65f7f9abb4a02e6d"
-metafile = true
-
-[[files]]
-file = "mods/travelersbackpack.pw.toml"
-hash = "c7d8b3eb44c2f82445eee665b73d8b81d15bcb9f5de773fa2ddc048b2f5ccb11"
 metafile = true
 
 [[files]]
