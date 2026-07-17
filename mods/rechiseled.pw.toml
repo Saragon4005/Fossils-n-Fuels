@@ -1,0 +1,33 @@
+filename = 'rechiseled-1.2.4-fabric-mc1.20.1.jar'
+name = 'Rechiseled'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.4-fabric-mc1.20.1'
+
+[download]
+hash = 'd03c1e6857893d3f04fe9a331e57b2e49e099909b7bfccf8546b1e168b32edbfc26fc6d1eabb1c98cdc7b3b990546ff45324a324048d4629c0c91ded96da456e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/B0g2vT6l/versions/kxASWLSw/rechiseled-1.2.4-fabric-mc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'B0g2vT6l'
+version = 'kxASWLSw'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LN9BxssP'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'rOUBggPv'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'p19vrgc2'
+type = 'REQUIRED'

@@ -1,0 +1,21 @@
+filename = 'morehitboxes-fabric-1.20.1-1.9.3.jar'
+name = 'More Hitboxes'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-1.9.3-fabric'
+
+[download]
+hash = '93e6469006a7c2c3428af32063c58056a94b45c44aa92671cbb38057b5da9be32aa5d0dd900b6b5ac469641ddf5ded084c6402348a2ff98cf8bb215ca30bfc4f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BOVAW87Z/versions/M4VvMcZQ/morehitboxes-fabric-1.20.1-1.9.3.jar'
+
+[update.modrinth]
+mod-id = 'BOVAW87Z'
+version = 'M4VvMcZQ'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8BmcQJ2H'
+type = 'OPTIONAL'

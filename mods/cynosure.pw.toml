@@ -1,0 +1,25 @@
+filename = 'cynosure-0.1.15-fabric.jar'
+name = 'Cynosure'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.1.15-fabric'
+
+[download]
+hash = '68b932320ce743c14fa913351f1103da2a7d7ec282f6cbddcafdff5a996e3fa5beaa530f7779c964454877af4d420f36b14f4cfbbc15d9529a0a8faedfa00b9c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4JVfdODB/versions/BSHtyVNE/cynosure-0.1.15-fabric.jar'
+
+[update.modrinth]
+mod-id = '4JVfdODB'
+version = 'BSHtyVNE'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Ha28R6CL'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

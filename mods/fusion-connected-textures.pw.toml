@@ -1,0 +1,21 @@
+filename = 'fusion-1.2.12-fabric-mc1.20.1.jar'
+name = 'Fusion (Connected Textures)'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.12-fabric-mc1.20.1'
+
+[download]
+hash = '04b00b1b6b64edcf2e9114d5ae03bf70c98bfb49284e0b6c017229aa2636f3f6d08665307e2aa31e1790c249a539baf1b4a58a5a78e3d185858457fe2d6482e2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/p19vrgc2/versions/uCMQtEFU/fusion-1.2.12-fabric-mc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'p19vrgc2'
+version = 'uCMQtEFU'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

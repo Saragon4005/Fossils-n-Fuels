@@ -1,0 +1,16 @@
+name = "Fossils 'n Fuels"
+author = "Creatures5"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a6f9164497dd1047d61328531569d438805e9e419b3339f9d10f7c77088ccc5e"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "1.20.1"
+
+[options]
+acceptable-game-versions = []

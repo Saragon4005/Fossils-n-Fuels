@@ -1,0 +1,49 @@
+filename = 'fossil-fabric-1.20.1-9.3.4.0.jar'
+name = 'Fossils and Archeology: Revival'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-9.3.4.0-fabric'
+
+[download]
+hash = '1a23af5838e0641d40d3aa51da0079cb3d1cd87e30b38b69bbccd5d9a89dc4ecc6b6e883979ed8ec401f0ba231068263e4e6d7115d5e53b9d75945f555ce2513'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IJY7IqPP/versions/fouLO3jc/fossil-fabric-1.20.1-9.3.4.0.jar'
+
+[update.modrinth]
+mod-id = 'IJY7IqPP'
+version = 'fouLO3jc'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'codAaoxh'
+type = 'EMBEDDED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'kkmrDlKT'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'BOVAW87Z'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'K01OU20C'
+type = 'EMBEDDED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8BmcQJ2H'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Wd844r7Q'
+type = 'EMBEDDED'
