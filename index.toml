@@ -69,6 +69,11 @@ hash = "aa02a91442d40d953d23c78338b9f402543815ba40e672b3e5c79d8b721b726e"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
+metafile = true
+
+[[files]]
 file = "mods/create-deco-additions.pw.toml"
 hash = "dbf0aca7311ad5787820f3e0944713c8d9005c50dd46410383e06cfdf64091c2"
 metafile = true
@@ -301,6 +306,11 @@ metafile = true
 [[files]]
 file = "mods/scalable-cats-force.pw.toml"
 hash = "4339af6732c484fc5eca5a0975e3db6ac24c6d3a639936f8e25ef714dd5e21e6"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
 
 [[files]]
