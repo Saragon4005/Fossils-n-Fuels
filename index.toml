@@ -84,6 +84,11 @@ hash = "dc744e6dd9397092711f4b284b03c901ce1f44e657742b764712d6124d747215"
 metafile = true
 
 [[files]]
+file = "mods/create-dynamic-lights.pw.toml"
+hash = "f38dc6a87e6d7c5d6055364dbba6954df4c67c73fcc5e887426e9e79bd91fcfd"
+metafile = true
+
+[[files]]
 file = "mods/create-estrogen.pw.toml"
 hash = "487ab1a8b3bf49dd8d210ffd72c328e75aa8937ec10253c7c525445efd831c7b"
 metafile = true

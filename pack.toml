@@ -1,12 +1,12 @@
 name = "Fossils 'n Fuels"
 author = "Creatures5"
-version = "0.2.0"
+version = "0.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3a79baf341ee554f46bde7be0d0a42ffa5c2d4eb9358babada3b6c916d75ccbd"
+hash = "a6c41abc0df49fabbf6c4ac100b026990596129be2bc645dda8aa025f479bb87"
 
 [versions]
 fabric = "0.19.3"
