@@ -54,6 +54,11 @@ hash = "a8868594b7be2fa91d5be80291b60d6c5a6c5be5a8d48b901bc2f7a8b5b5e86f"
 metafile = true
 
 [[files]]
+file = "mods/blaha-replushed.pw.toml"
+hash = "a3751624d77f31587695c346ee8ca53ace301a8582da36290c133111cc7a0c1e"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "937b799ec64dbc052a7df55701e57c094f467ef74239e382d1debd43344dc99f"
 metafile = true
