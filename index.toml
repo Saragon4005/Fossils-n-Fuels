@@ -59,13 +59,8 @@ hash = "937b799ec64dbc052a7df55701e57c094f467ef74239e382d1debd43344dc99f"
 metafile = true
 
 [[files]]
-file = "mods/chipped-express.pw.toml"
-hash = "31c26d388abc0817c7865a8c4d747cb5b5d2f72f88dfad66535b3530f7299531"
-metafile = true
-
-[[files]]
-file = "mods/chipped.pw.toml"
-hash = "58d6861337626edf09635b6bc0bc45f49286c2517a234cb50baee9a23c538fc6"
+file = "mods/chisel-reborn.pw.toml"
+hash = "281e2429b2f37421799b6ff4613c8a783df5e008c2864f91aa862418ff86f272"
 metafile = true
 
 [[files]]
