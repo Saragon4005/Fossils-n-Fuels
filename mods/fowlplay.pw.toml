@@ -1,33 +1,13 @@
-filename = 'fowlplay-1.1.2+1.20.1-fabric.jar'
-name = 'Fowl Play'
-side = 'both'
-x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.1.2+1.20.1-fabric'
+name = "Fowl Play"
+filename = "fowlplay-1.2.3+1.20.1-fabric.jar"
+side = "both"
 
 [download]
-hash = '11d3716088c7ad0839d18bfa8df864784c5189899a9c7aa7da62d5edfad04faf7e1c48a5d2bcc4d9f6183f32d00246f5a315b6e63f73e6ce8b0a27ae33ed4e84'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/WpXfePbg/versions/qQ4ULoUE/fowlplay-1.1.2%2B1.20.1-fabric.jar'
+url = "https://cdn.modrinth.com/data/WpXfePbg/versions/siHXK749/fowlplay-1.2.3%2B1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "60fb99e3091f3d4b001857133791f14095ea6d2240c8a6999873beeb3fe0bbb5ae5bbfe14d574c24535eff1a4cfe71c698543a668226fed1c361cc48575ed34e"
 
+[update]
 [update.modrinth]
-mod-id = 'WpXfePbg'
-version = 'qQ4ULoUE'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'lhGA9TYQ'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '1eAoo2KR'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'PuyPazRT'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'
+mod-id = "WpXfePbg"
+version = "siHXK749"
