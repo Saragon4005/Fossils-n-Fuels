@@ -59,6 +59,16 @@ hash = "937b799ec64dbc052a7df55701e57c094f467ef74239e382d1debd43344dc99f"
 metafile = true
 
 [[files]]
+file = "mods/chipped-express.pw.toml"
+hash = "31c26d388abc0817c7865a8c4d747cb5b5d2f72f88dfad66535b3530f7299531"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "58d6861337626edf09635b6bc0bc45f49286c2517a234cb50baee9a23c538fc6"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "5800ae08911224ed9a09d7b7104a1bd38837c45d18cdd5a259769aa609aefd03"
 metafile = true
@@ -179,11 +189,6 @@ hash = "b9cc31fd2ee90dadd2771ff0048f1645db43e242ccb6a07246d7465c59722b70"
 metafile = true
 
 [[files]]
-file = "mods/fusion-connected-textures.pw.toml"
-hash = "734397373036a0611a1ab4d307533f6df7d0f03b11bd93a7834d54cdf403ad8e"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "96c1f2341b35d29390f0a86f9c707b8d3508b97de4ba7752aa765af1ac0fcdf9"
 metafile = true
@@ -284,21 +289,6 @@ hash = "6078f5fd320634289db2ad698b43f2588d4bc2c466c8f50f477fe60df98b3499"
 metafile = true
 
 [[files]]
-file = "mods/rechiseled-applied-energistics-2.pw.toml"
-hash = "29868afd83163a85f3e161d920143097a47ac6d35325cc912ac752fd618c389d"
-metafile = true
-
-[[files]]
-file = "mods/rechiseled-create.pw.toml"
-hash = "d85f2c18081e595476b22f17c36156959f17587e50b16ab0fb5ab1a44d3ce67d"
-metafile = true
-
-[[files]]
-file = "mods/rechiseled.pw.toml"
-hash = "e1dceb21570ebd4dbebdb588d88eebaf88849a39574f849a9491836942125a84"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "d9121f71e525deb6c7eb383da9b065c291e980e79ad405f5dd1091a2659bea44"
 metafile = true
@@ -326,16 +316,6 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "7bfe6f07ca8312c7003c4a5966bf70ab0761a8d99df9e912893982b48cc4c854"
-metafile = true
-
-[[files]]
-file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "857ac3d033abf7fb03b0d501d2b52e702127355e057980d348dcf38310de6d1e"
-metafile = true
-
-[[files]]
-file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "92e1fe41376bec57bffb9cc1001a9f2db6498873870a1fd22d0695e6874a4890"
 metafile = true
 
 [[files]]
