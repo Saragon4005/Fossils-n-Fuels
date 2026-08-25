@@ -309,11 +309,6 @@ hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat-discord-bridge.pw.toml"
-hash = "c9dae634a02f14c59cadeb736e519d9eaee13c34d3418ba2e33006ec448fb485"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "0be55b277946be6b178bbe559bed59ffa9689f0e36cec3a317b87f5a376bb72f"
 metafile = true
