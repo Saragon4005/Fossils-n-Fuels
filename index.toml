@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat-discord-bridge.pw.toml"
-hash = "9e3033b2eacddda94b3cf588435adff327b788af277e7268378d838ac913fa0e"
+hash = "c9dae634a02f14c59cadeb736e519d9eaee13c34d3418ba2e33006ec448fb485"
 metafile = true
 
 [[files]]
