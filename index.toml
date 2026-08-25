@@ -119,6 +119,11 @@ hash = "0b1d54999b2cea3c3d7bd3e5f8a9221fb45c94f495d730eb4caac2e98e11fe45"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "a3f54d4b294683dbfe027dc01f9172bd828769afb435bb965f167e205640e7c3"
+metafile = true
+
+[[files]]
 file = "mods/deltaboxlib.pw.toml"
 hash = "f211617c87549801f11c98281fd663c641cb49eba77fe7cd4e2489d8120d601b"
 metafile = true
@@ -301,6 +306,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat-discord-bridge.pw.toml"
+hash = "9e3033b2eacddda94b3cf588435adff327b788af277e7268378d838ac913fa0e"
 metafile = true
 
 [[files]]
