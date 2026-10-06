@@ -239,6 +239,11 @@ hash = "c1fae6c0a49dfbcc9622382e224c3dacfce17764d2baf6af9bb629633f6b40d8"
 metafile = true
 
 [[files]]
+file = "mods/magnum-torch.pw.toml"
+hash = "f251cafe3cd3297df6a055a1d5df2c3390f791e2420fc666c5b9ee7fc62126b1"
+metafile = true
+
+[[files]]
 file = "mods/man-of-many-planes.pw.toml"
 hash = "dfc238163a47265d8054ed32fd886c213f9837eb7650e5385cb7ad24f7094aea"
 metafile = true
