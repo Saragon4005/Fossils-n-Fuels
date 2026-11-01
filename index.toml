@@ -119,6 +119,11 @@ hash = "c53b1bcd1e917d8083aba91ed85eefa2d462b6caa37f297e35e11df51bc96c5f"
 metafile = true
 
 [[files]]
+file = "mods/create-track-map-unofficial-fork.pw.toml"
+hash = "e601cb79e15f399fdae5e9a2ec48983a3248a7d3bf4fc2a25a83bb0847b98f75"
+metafile = true
+
+[[files]]
 file = "mods/cryonicconfig.pw.toml"
 hash = "9a50cb5c9eddd212dbf060086552384cf11886b028650480485e57368cf884f2"
 metafile = true
@@ -226,6 +231,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "0217d5ed08aa73eb0f47a044918ea572a1f75f856125467a30f13a9864b02b89"
+metafile = true
+
+[[files]]
+file = "mods/kiss-a-friend.pw.toml"
+hash = "25538327a07acc95de2a7092746e89965ec7c6ace2d4591d67c5db3d64358663"
 metafile = true
 
 [[files]]
