@@ -224,6 +224,11 @@ hash = "996cc3758d19ae8b819b23e02f94ef97a8d0be491cdb243ec5fc9b3630770416"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "0921353de13954f399d52d26ef7a9d3ce093779b62227e32c8a5774ac0ae5876"
 metafile = true
@@ -341,6 +346,11 @@ metafile = true
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "9015303c65d5aca761e8fa14726c4b01d8bf19074ad55c19e72bc6fbe76b4301"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
 metafile = true
 
 [[files]]
